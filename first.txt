@@ -1,2 +1,3 @@
 This is the first text file created.
 Added second line on github directly.
+Added the third line to this file in the local repo.
