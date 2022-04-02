@@ -1,1 +1,5 @@
-This is a new branch created with 'git checkout -b branch_name' command.
+** This is a new branch created with 'git checkout -b branch_name' command.
+** This branch has been created in the local repo, but from local terminal this branch can be pushed and created at same time
+   by command "git push origin -u branch_name".
+** The -u flag creates the branch if it doesn't exist, while pushing to a existing branch remove the flag '-u'.
+
