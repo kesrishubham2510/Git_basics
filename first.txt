@@ -3,3 +3,4 @@ Added second line on github directly.
 Added the third line to this file in the local repo.
 Adding this line in this file in github repo online, and will be used to observer the merge conflict. 
 Adding this line 5.
+Some random at line 6 (understanding merge conflict).
