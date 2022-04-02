@@ -3,3 +3,4 @@
    by command "git push origin -u branch_name".
 ** The -u flag creates the branch if it doesn't exist, while pushing to a existing branch remove the flag '-u'.
 ** This line is added in the third branch(third_branch).
+** Adding this line in master in master branch and will later try to merge with the third_branch.
