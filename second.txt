@@ -1,0 +1,1 @@
+This is a new branch created with 'git checkout -b branch_name' command.
