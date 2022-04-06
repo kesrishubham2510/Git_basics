@@ -9,10 +9,15 @@ private String token;
 
     public void setString(String token){
        this.token = token;
+
+
+	   
 	}
 
 
 	public void getString(){
        System.out.println(token);
 	}
+
+
 }
