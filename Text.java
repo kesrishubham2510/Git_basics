@@ -9,6 +9,7 @@ private String token;
 
     public void setString(String token){
        this.token = token;
+	   System.out.println("This is second terminal");
 	}
 
 
